@@ -1,0 +1,8 @@
+---
+    layout: layout.html
+---
+
+{% for endpoint in collections.endpoint %}
+<h4>{{endpoint.data.title}}</h4>
+<h6>{{endpoint.content}}</h6>
+{% endfor %}

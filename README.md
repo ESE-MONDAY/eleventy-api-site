@@ -1,6 +1,4 @@
-Certainly! Here's the README file with the updated title to match your blog topic:
 
----
 
 # Creating API Documentation with Eleventy: A Comprehensive Guide
 
